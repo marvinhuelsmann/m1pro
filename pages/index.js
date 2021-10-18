@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Head from 'next/head'
 import M1ProLogo from '../public/Apple_M1-Pro-M1-Max_Chips.jpg'
 import M1ProPerformance from '../public/Apple_M1-Pro-M1-Max_CPU-Performance_10182021.jpg'
 import MacBookPro from '../public/Apple_MacBook-Pro_16-inch-Screen_10182021.jpg'
@@ -29,6 +30,11 @@ export default function Home() {
     })
     return (
         <div>
+            <Head>
+                <title>Apple M1Pro</title>
+                <link rel="icon" href="/public/Apple_M1-Pro-M1-Max_Chips.jpg"/>
+            </Head>
+
             <main className={"min-h-screen py-2"}>
                 <div className={"xl:mt-11 xl:mb-20 md:mt-10 mt-5 mb-14"}>
                     <h3 className={"flex justify-center xl:text-3xl md:text-3xl text-2xl text-center font-bold"}>
