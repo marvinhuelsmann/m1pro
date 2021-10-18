@@ -32,7 +32,7 @@ export default function Home() {
         <div>
             <Head>
                 <title>Apple M1Pro</title>
-                <link rel="icon" href="/public/Apple_M1-Pro-M1-Max_Chips.jpg"/>
+                <link rel="icon" href="https://i.imgur.com/gPiGNQI.jpeg"/>
             </Head>
 
             <main className={"min-h-screen py-2"}>
