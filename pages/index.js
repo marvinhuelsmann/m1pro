@@ -51,7 +51,7 @@ export default function Home() {
                     <h1 className={"flex justify-center xl:text-9xl md:text-8xl text-6xl text-center font-bold show-on-scroll"}>
                         Prooooooo.
                     </h1>
-                    <p className={"flex justify-center font-bold pr-20 pl-20 text-gray-600 text-xl text-center show-on-scroll"}>
+                    <p className={"flex justify-center font-bold xl:pr-20 xl:pl-20 pr-6 pl-6 text-gray-600 xl:text-xl md:text-xl text-sm text-center show-on-scroll"}>
                         Der M1 Pro bringt die außergewöhnliche Performance der M1 Architektur für Pro
                         Benutzer:innen auf ein ganz neues Level. Auch die ambitio­niertesten Projekte
                         laufen ganz einfach, mit bis zu 10 CPU Kernen, bis zu 16 GPU Kernen und einer 16‑Core
@@ -82,7 +82,7 @@ export default function Home() {
                             <h1 className={"flex justify-center xl:text-9xl md:text-8xl text-6xl text-center font-bold show-on-scroll"}>
                                 Liquid Retina XDR.
                             </h1>
-                            <p className={"flex mt-3 justify-center font-bold pr-20 pl-20 text-gray-600 text-xl text-center show-on-scroll"}>
+                            <p className={"flex mt-3 justify-center font-bold xl:pr-20 xl:pl-20 pr-6 pl-6 text-gray-600 xl:text-xl md:text-xl text-sm text-gray-600 text-center show-on-scroll"}>
                                 Mit 1.000
                                 Nits durchgehende Helligkeit,
                                 1.600
@@ -94,22 +94,22 @@ export default function Home() {
                                 1.000.000.000
                                 Farben
                             </p>
-                            <h1 className={"flex justify-center xl:text-9xl md:text-8xl text-6xl text-center font-bold show-on-scroll"}>
+                            <h1 className={"flex justify-center xl:text-9xl md:text-9xl text-6xl text-center font-bold show-on-scroll"}>
                                 ProMotion.
                             </h1>
-                            <p className={"flex justify-center font-bold pr-20 pl-20 text-gray-600 text-xl text-center show-on-scroll"}>
+                            <p className={"flex justify-center font-bold xl:pr-20 xl:pl-20 pr-6 pl-6 text-gray-600 xl:text-xl md:text-xl text-sm text-gray-600  text-center show-on-scroll"}>
                                 Mit Bildraten von bis zu 120 Hz passt sich die adaptive Technologie automatisch an die Bewegung der Inhalte an.
                             </p>
                             <h1 className={"mt-5 flex justify-center xl:text-9xl md:text-8xl text-6xl text-center font-bold show-on-scroll"}>
                                 3D Audio.
                             </h1>
-                            <p className={"flex justify-center font-bold pr-20 pl-20 text-gray-600 text-xl text-center show-on-scroll"}>
+                            <p className={"flex justify-center font-bold xl:pr-20 xl:pl-20 pr-6 pl-6 text-gray-600 xl:text-xl md:text-xl text-sm text-gray-600 text-center show-on-scroll"}>
                                 Mit seinem raumfüllenden 6-Laut­sprecher-System und fortschrittlichen Algorithmen.
                             </p>
                            <h1 className={"mt-5 flex justify-center xl:text-9xl md:text-8xl text-6xl text-center font-bold show-on-scroll"}>
                                 Ports.
                             </h1>
-                            <p className={"flex justify-center font-bold pr-20 pl-20 text-gray-600 text-xl text-center show-on-scroll"}>
+                            <p className={"flex justify-center font-bold xl:pr-20 xl:pl-20 pr-6 pl-6 text-gray-600 xl:text-xl md:text-xl text-sm text-gray-600 text-center show-on-scroll"}>
                                 Mit 3x Thunberbold 4, 1x HDMI, 1x Magsafe, 1x SDXC
                             </p>
                         </div>
@@ -120,7 +120,7 @@ export default function Home() {
                         <h3 className={"flex justify-center xl:text-3xl md:text-3xl text-2xl text-center font-bold"}>
                             danke 🍎
                         </h3>
-                        <div className={"mt-3 text-gray-500"}>
+                        <div className={"mt-1 text-gray-500"}>
                             <h3 className={" justify-center xl:text-xl md:text-xl text-medium text-center"}>
                                 entwickelt von
                                 <a target={"_blank"} className={"text-gray-600 hover:text-gray-700"}
