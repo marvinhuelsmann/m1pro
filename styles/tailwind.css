@@ -2,5 +2,10 @@
 @import "fadein.css";
 
 @tailwind components;
+@font-face {
+    font-family: 'SF Pro';
+    src: local('SF Pro Display'), url(./font/SFPRODISPLAYBOLD.OTF) format('OTF');
+    src: local('SF Pro'), url(./font/SFPRODISPLAYMEDIUM.OTF) format('OTF');
+}
 
 @tailwind utilities;
