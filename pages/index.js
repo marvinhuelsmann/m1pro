@@ -35,7 +35,7 @@ export default function Home() {
                 <link rel="icon" href="https://i.imgur.com/gPiGNQI.jpeg"/>
             </Head>
 
-            <main className={"min-h-screen py-2"}>
+            <main className={"min-h-screen py-2"} style={"font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial"}>
                 <div id={"section-1"}>
                     <div className={"xl:mt-11 xl:mb-20 md:mt-10 mt-5 mb-14"}>
                         <h3 className={"flex justify-center xl:text-3xl md:text-3xl text-2xl text-center font-bold"}>
