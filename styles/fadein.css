@@ -1,3 +1,6 @@
+.font {
+    font-family: SF Pro Display, SF Pro Icons, Helvetica Neue, Helvetica, Arial, inherit, serif;
+}
 @-webkit-keyframes fadeIn {
     0% {
         opacity: 0;
