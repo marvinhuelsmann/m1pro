@@ -29,7 +29,7 @@ export default function Home() {
         });
     })
     return (
-        <div className={"font"}>
+        <div>
             <Head>
                 <title>Apple M1Pro</title>
                 <link rel="icon" href="https://i.imgur.com/gPiGNQI.jpeg"/>
