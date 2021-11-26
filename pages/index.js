@@ -33,6 +33,7 @@ export default function Home() {
             <Head>
                 <title>Apple M1Pro</title>
                 <link rel="icon" href="https://i.imgur.com/gPiGNQI.jpeg"/>
+                <link href="https://fonts.cdnfonts.com/css/sf-pro-display" rel="stylesheet"/>
             </Head>
 
             <main className={"min-h-screen py-2"}>
